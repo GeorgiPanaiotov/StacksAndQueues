@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.exe
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.dll
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.dll
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp3.1\StringReverse.csprojAssemblyReference.cache
